@@ -1,0 +1,21 @@
+services:
+  dotnet:
+    build:
+      context: ./
+      dockerfile: Dockerfile
+    image: dotnet-send-rabbitmq
+    container_name: dotnet-send-rabbitmq
+    tty: true
+    ports:
+      - "5004:5004"
+      - "5005:5005"
+    volumes:
+      - .:/app/
+    networks:
+      - dotnetwork
+    extra_hosts:
+      - "host.docker.internal:host-gateway"
+
+networks:
+  dotnetwork:
+    driver: bridge

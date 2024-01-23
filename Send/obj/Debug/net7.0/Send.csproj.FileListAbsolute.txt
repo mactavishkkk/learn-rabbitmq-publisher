@@ -1,0 +1,17 @@
+/app/Send/obj/Debug/net7.0/Send.csproj.AssemblyReference.cache
+/app/Send/obj/Debug/net7.0/Send.GeneratedMSBuildEditorConfig.editorconfig
+/app/Send/obj/Debug/net7.0/Send.AssemblyInfoInputs.cache
+/app/Send/obj/Debug/net7.0/Send.AssemblyInfo.cs
+/app/Send/obj/Debug/net7.0/Send.csproj.CoreCompileInputs.cache
+/app/Send/bin/Debug/net7.0/Send
+/app/Send/bin/Debug/net7.0/Send.deps.json
+/app/Send/bin/Debug/net7.0/Send.runtimeconfig.json
+/app/Send/bin/Debug/net7.0/Send.dll
+/app/Send/bin/Debug/net7.0/Send.pdb
+/app/Send/bin/Debug/net7.0/RabbitMQ.Client.dll
+/app/Send/obj/Debug/net7.0/Send.csproj.CopyComplete
+/app/Send/obj/Debug/net7.0/Send.dll
+/app/Send/obj/Debug/net7.0/refint/Send.dll
+/app/Send/obj/Debug/net7.0/Send.pdb
+/app/Send/obj/Debug/net7.0/Send.genruntimeconfig.cache
+/app/Send/obj/Debug/net7.0/ref/Send.dll
